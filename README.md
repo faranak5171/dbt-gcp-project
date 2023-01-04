@@ -1,7 +1,6 @@
 <p align='center'>
   <img src='snapshots/lineage-graph.jpg' />
 </p>
-
 Welcome to your new dbt project!
 
 ### Using the starter project
